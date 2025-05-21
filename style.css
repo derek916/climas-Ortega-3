@@ -1,0 +1,58 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f2f2f2;
+  color: #222;
+}
+
+header {
+  background: #ffffff;
+  text-align: center;
+  padding: 20px;
+  border-bottom: 2px solid #ddd;
+}
+
+header img {
+  width: 100px;
+  height: auto;
+}
+
+h1 {
+  margin: 10px 0 5px;
+  color: #0a2d66;
+}
+
+p {
+  margin: 5px 0;
+}
+
+main {
+  padding: 20px;
+}
+
+.servicios ul {
+  list-style: none;
+  padding: 0;
+}
+
+.servicios li {
+  background: #fff;
+  margin: 10px 0;
+  padding: 15px;
+  border-left: 5px solid #0a2d66;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.contacto a {
+  color: #0a2d66;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+footer {
+  background: #0a2d66;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
